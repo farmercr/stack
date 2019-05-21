@@ -17,9 +17,11 @@ confirmation and we will close it.
 
 If you would like to help with documentation, please note that for most cases
 the Wiki has been deprecated in favor of markdown files placed in a new `/doc`
-subdirectory of the repository itself. Please submit a
-[pull request](https://help.github.com/articles/using-pull-requests/) with your
-changes/additions based off the [the stable branch](https://github.com/commercialhaskell/stack/tree/stable).
+subdirectory of the repository itself. To submit a pull request, please follow these steps:
+  1. Navigate to [the stable branch](https://github.com/commercialhaskell/stack/tree/stable).
+  2. Click on the "New Pull Request" button.
+  
+General information on pull requests is available at [using pull requests](https://help.github.com/articles/using-pull-requests/).
 
 The documentation is rendered on [haskellstack.org](http://haskellstack.org) by
 readthedocs.org using Sphinx and CommonMark. Since links and formatting vary
